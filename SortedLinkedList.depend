@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712120515 source:c:\users\lenovo\desktop\cse225.7\lab\lab works\sortedlinkedlist\sortedlinkedlist.cpp
+	"SortedLinkedList.h"
+	<iostream>
+
+1712128929 c:\users\lenovo\desktop\cse225.7\lab\lab works\sortedlinkedlist\sortedlinkedlist.h
+
+1712120535 source:c:\users\lenovo\desktop\cse225.7\lab\lab works\sortedlinkedlist\main.cpp
+	<iostream>
+	"SortedLinkedList.cpp"
+
+1712120515 c:\users\lenovo\desktop\cse225.7\lab\lab works\sortedlinkedlist\sortedlinkedlist.cpp
+	"SortedLinkedList.h"
+	<iostream>
+
